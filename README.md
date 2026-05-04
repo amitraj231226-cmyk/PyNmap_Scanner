@@ -1,8 +1,8 @@
-# NetProbe Scanner Pro
+# PyNmap_Scanner
 
 A professional GUI-based network scanning tool built with Python, Tkinter, and Nmap.
 
-NetProbe Scanner Pro allows users to scan targets, detect open ports, identify running services, save scan reports, and maintain scan history through an interactive graphical interface.
+PyNmap_Scanner allows users to scan targets, detect open ports, identify running services, save scan reports, and maintain scan history through an interactive graphical interface.
 
 ---
 
@@ -33,7 +33,7 @@ NetProbe Scanner Pro allows users to scan targets, detect open ports, identify r
 
 ## Project Structure
 
-NetProbe-Scanner-Pro/
+PyNmap_Scanner/
 │
 ├── scanner_gui.py
 ├── history/
